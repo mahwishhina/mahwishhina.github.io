@@ -2,26 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/accountability/</loc>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ai-ethics/</loc>
-    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai-governance/</loc>
-    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/artificial-intelligence/</loc>
-    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/bias/</loc>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/explainable-ai/</loc>
-    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/data-governance/</loc>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/the-role-of-transparency-in-ai/</loc>
-    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/data-privacy/</loc>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-science/</loc>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ethics/</loc>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/informed-consent/</loc>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -38,11 +47,11 @@
                 href="http://localhost:1313/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/responsible-ai/</loc>
-    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/survey-design/</loc>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -59,7 +68,25 @@
                 href="http://localhost:1313/fr/tags/"
                 />
   </url><url>
+    <loc>http://localhost:1313/blogs/data-science-ethics/</loc>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/transparency/</loc>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai-governance/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/artificial-intelligence/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/explainable-ai/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/the-role-of-transparency-in-ai/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/responsible-ai/</loc>
     <lastmod>2026-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/5-sql-queries/</loc>
@@ -97,6 +124,9 @@
   </url><url>
     <loc>http://localhost:1313/blogs/my-journey-into-data-analytics/</loc>
     <lastmod>2026-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/template/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>

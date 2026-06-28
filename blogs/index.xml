@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Illusion of Anonymity: When Data Science Ethics Gets Lost in the Survey</title>
+				<link>http://localhost:1313/blogs/data-science-ethics/</link>
+				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/data-science-ethics/</guid>
+				<description>&lt;h1 id=&#34;ethics-in-data-collection-and-analysis&#34;&gt;Ethics in Data Collection and Analysis&lt;/h1&gt;&#xA;&lt;p&gt;In data science, it&amp;rsquo;s easy to focus on numbers and results, but behind every dataset are real people who trust us with their information. How that information is collected and used can have important ethical implications.&lt;/p&gt;&#xA;&lt;p&gt;Most of us have completed a survey after finishing a course, training session, or workshop. These surveys are often presented as a way for organizations to gather feedback for improvements. In this scenario, participants are asked to complete a ten-question survey after finishing a course. To access the survey, they must log in using their organization username and password. Although the survey does not ask for their name, it states that all responses will remain anonymous. Executive management plans to use the survey results to identify courses that need improvement, and data analysts are responsible for analyzing the feedback and providing recommendations.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>If AI Can&#39;t Explain Itself, Should We Trust It?</title>
 				<link>http://localhost:1313/blogs/the-role-of-transparency-in-ai/</link>
@@ -40,6 +47,13 @@
 				<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/blogs/my-journey-into-data-analytics/</guid>
 				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;My journey into data analytics began while working in pension administration, where I was responsible for financial data reconciliation, reporting, and validating pension payment records. Although accuracy and compliance were key aspects of the role, I found myself particularly interested in analyzing data, identifying discrepancies, and uncovering patterns.&lt;/p&gt;&#xA;&lt;h2 id=&#34;discovering-analytics&#34;&gt;Discovering Analytics&lt;/h2&gt;&#xA;&lt;p&gt;A significant part of my work involved comparing datasets from banks against internal records, performing variance analysis in Excel, and preparing reports for management. These responsibilities strengthened my analytical thinking and attention to detail while showing me the value of data-driven decision-making.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Blog Template</title>
+				<link>http://localhost:1313/blogs/template/</link>
+				<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/template/</guid>
+				<description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Write your introduction here.&lt;/p&gt;&#xA;&lt;h2 id=&#34;main-content&#34;&gt;Main Content&lt;/h2&gt;&#xA;&lt;p&gt;Add your content here.&lt;/p&gt;&#xA;&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;&#xA;&lt;p&gt;Summarize what you learned or achieved.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Placeholder Text</title>
